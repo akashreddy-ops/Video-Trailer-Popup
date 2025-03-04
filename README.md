@@ -18,13 +18,13 @@ Why Use a Video Trailer Popup?
 1️⃣ User clicks the "Watch Trailer" button
 2️⃣ A popup appears with an embedded video (YouTube, Vimeo, or local MP4)
 3️⃣ User can play, pause, or close the video anytime
-4️⃣ The popup disappears smoothly when closed
+4️⃣ The popup disappears smoothly when closed.
 
 📌 Implementation & Code
 This feature is implemented using:
 ✔️ HTML for structuring the popup
 ✔️ CSS for styling the modal and animations
-✔️ JavaScript for handling click events and interactions
+✔️ JavaScript for handling click events and interactions.
 
 Would you like to see a step-by-step guide or source code for this feature? Let me know, and I'll be happy to share! 🚀
 
