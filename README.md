@@ -28,6 +28,6 @@ This feature is implemented using:
 
 Would you like to see a step-by-step guide or source code for this feature? Let me know, and I'll be happy to share! 🚀
 
-📢 Live Demo: [https://akashreddy-ops.github.io/Video-Trailer-Popup/].
+📢 Live Demo: [https://akashreddy-ops.github.io/Video-Trailer-Popup/]
 
-#WebDevelopment #JavaScript #HTML #CSS #UXDesign #VideoPopup #WebsiteFeatures #FrontendDevelopment #Coding.
+#WebDevelopment #JavaScript #HTML #CSS #UXDesign #VideoPopup #WebsiteFeatures #FrontendDevelopment #Coding
